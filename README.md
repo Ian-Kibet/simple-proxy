@@ -19,3 +19,6 @@ Read the docs at https://docs.movie-web.app/proxy/introduction
  - AWS lambda
  - nodejs
  - netlify edge functions
+
+
+<!-- Security scan triggered at 2025-09-02 00:45:09 -->
